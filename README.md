@@ -21,13 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Xur's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcxd68&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcxd68&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gcxd68&theme=tokyonight)
 
