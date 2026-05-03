@@ -56,7 +56,7 @@ Why hire a pianist for software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship** or opportunities in Game Development, Audio Tech Network Tech, Edtech, or Systems Programming.
+- Looking for a **6-month internship** or opportunities in Game Development, Edtech, Audio Tech, Network Tech or Systems Programming.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
