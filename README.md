@@ -1,23 +1,45 @@
-# 👋 Hi, I'm gcxd68
+# 👋 Hi, I'm Grégory (gcxd68)
 
-🎓 Student at 42 Mulhouse  
-💻 Learning to code through real projects  
-🚀 Sharing my implementations of classic school projects and personal work  
+**Former Music Teacher & Pianist 🎹 ➔ Low-Level & C++ Software Engineer 💻**
+
+🎓 **Student at 42 Mulhouse** | 📍 Based in Colmar, France (Mobile)
+
+I spent 25 years teaching piano and music theory, deciphering classical harmony, translating artistic intent into structured logic. Today, I apply that same rigorous, structural mindset to software engineering. I don't just write code; I orchestrate systems. 
+
+I am passionate about what happens **under the hood**: memory management, engine logic, and the intersection between raw code and creativity.
+
+---
+
+## 🎼 The "Musician" Edge in Tech
+Why hire a pianist for software engineering?
+- **Extreme Rigor:** In classical music, a wrong note is fatal. In C/C++, a memory leak is the same. I am obsessed with clean, optimized, and leak-free code.
+- **Systemic Thinking:** Understanding a symphony score is essentially parsing a massive, multithreaded architecture.
+- **Pedagogy & Communication:** As a former teacher, I know how to break down complex problems, mentor others, and communicate clearly within a team.
 
 ---
 
 ## 🛠️ Tech & Tools
-- C
-- C++
-- Git & GitHub
-- Shell
-- Linux
+- **Languages:** C, C++98, Go (Learning)
+- **Systems & OS:** Linux (Ubuntu/Debian), Shell scripting, custom hardware builds
+- **Core Interests:** Game Engine and Network Architecture, Audio Programming, Systems Optimization, Multithreading
 
 ---
 
-## 📌 Featured Projects
-- 🔹 42 projects : Libft, ft_printf, Born2beroot, get_next_line, push_swap, FdF, pipex, minishell, Philosophers, cub3d, net_practice, CPP Modules, webserv, Inception, ft_transcendance
-- 🔹 Personal experiments & small tools
+## 📌 Featured Architecture (42 Projects)
+*Instead of just listing projects, here is what I actually built:*
+
+### ⚙️ Low-Level & Systems
+- **minishell:** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
+- **Philosophers:** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
+
+### 🎮 Graphics & Engine Logic
+- **cub3D:** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
+- **FdF:** A 3D wireframe isometric landscape renderer using custom graphic libraries.
+
+### 🌐 Architecture & Networking
+- **webserv:** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, epoll/select, CGI execution).
+- **Inception:** Built a complete LEMP stack infrastructure using Docker and docker-compose.
+- **ft_transcendence:** A real-time multiplayer game contest website (SPA, WebSockets, robust backend).
 
 ---
 
@@ -26,11 +48,10 @@
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/gcxd68
+## ⚡ Current Quests
+- Looking for a **6-month internship** or opportunities in Game Development, Audio Tech Network Tech, Edtech, or Systems Programming.
 
----
-
-## ⚡ About me
-- I like understanding how things work under the hood
-- Currently improving my skills every day
+📫 **Let's connect:**
+* LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
+* Email: mail [at] gregorydosch [dot] com
+* Location: Colmar, France
