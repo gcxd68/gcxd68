@@ -25,14 +25,22 @@ Why hire a pianist for software engineering?
 
 ---
 
-## 📌 Featured Architecture (42 Projects)
-*Instead of just listing projects, here is what I actually built:*
+## 🚀 Personal Engineering & Tools
+*Initiatives and custom projects built outside the standard curriculum.*
 
-### ⚙️ Low-Level & Systems
+- 🐍 **minisnake:** Engineered a networked terminal-based Snake game. Built the core game loop and system events in pure C, communicating via sockets with a custom concurrent backend server written in Go.
+- 🧚 **libft-fairy:** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
+
+---
+
+## 🏛️ 42 School Core Curriculum
+*Selected projects from the 42 syllabus, demonstrating low-level mastery and architecture.*
+
+### ⚙️ Systems & Optimization
 - **minishell:** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
 - **Philosophers:** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
 
-### 🎮 Graphics & Engine Logic
+### 🎮 Graphics & Math
 - **cub3D:** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
 - **FdF:** A 3D wireframe isometric landscape renderer using custom graphic libraries.
 
