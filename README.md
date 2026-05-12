@@ -37,15 +37,15 @@ Why hire a pianist for software engineering?
 *Selected projects from the 42 syllabus, demonstrating low-level mastery and architecture.*
 
 ### ⚙️ Systems & Optimization
-- **[minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
+- **[Minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
 - **[Philosophers](https://github.com/gcxd68/42_philosophers):** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
 
 ### 🎮 Graphics & Math
-- **[cub3D](https://github.com/Blaeste/42_Cub3D):** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
+- **[Cub3D](https://github.com/Blaeste/42_Cub3D):** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
 - **[FdF](https://github.com/gcxd68/42_fdf):** A 3D wireframe isometric landscape renderer using custom graphic libraries.
 
 ### 🌐 Architecture & Networking
-- **[webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, poll, CGI execution).
+- **[Webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, poll, CGI execution).
 - **[Inception](https://github.com/gcxd68/42_inception):** Built a complete LEMP stack infrastructure using Docker and docker-compose.
 
 ---
