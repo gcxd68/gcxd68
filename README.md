@@ -28,8 +28,8 @@ Why hire a pianist for software engineering?
 ## 🚀 Personal Engineering & Tools
 *Initiatives and custom projects built outside the standard curriculum.*
 
-- 🐍 **![minisnake](https://github.com/gcxd68/minisnake):** Engineered a networked terminal-based Snake game. Built the core game loop and system events in pure C, communicating via sockets with a custom concurrent backend server written in Go.
-- 🧚 **![libft-fairy](https://github.com/gcxd68/libft-fairy):** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
+- 🐍 **[minisnake](https://github.com/gcxd68/minisnake):** Engineered a networked terminal-based Snake game. Built the core game loop and system events in pure C, communicating via sockets with a custom concurrent backend server written in Go.
+- 🧚 **[libft-fairy](https://github.com/gcxd68/libft-fairy):** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
 
 ---
 
@@ -37,16 +37,16 @@ Why hire a pianist for software engineering?
 *Selected projects from the 42 syllabus, demonstrating low-level mastery and architecture.*
 
 ### ⚙️ Systems & Optimization
-- **![minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
-- **![Philosophers](https://github.com/gcxd68/42_philosophers):** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
+- **[minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
+- **[Philosophers](https://github.com/gcxd68/42_philosophers):** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
 
 ### 🎮 Graphics & Math
-- **![cub3D](https://github.com/Blaeste/42_Cub3D):** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
-- **![FdF](https://github.com/gcxd68/42_fdf):** A 3D wireframe isometric landscape renderer using custom graphic libraries.
+- **[cub3D](https://github.com/Blaeste/42_Cub3D):** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
+- **[FdF](https://github.com/gcxd68/42_fdf):** A 3D wireframe isometric landscape renderer using custom graphic libraries.
 
 ### 🌐 Architecture & Networking
-- **![webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, epoll/select, CGI execution).
-- **![Inception](https://github.com/gcxd68/42_inception):** Built a complete LEMP stack infrastructure using Docker and docker-compose.
+- **[webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, poll, CGI execution).
+- **[Inception](https://github.com/gcxd68/42_inception):** Built a complete LEMP stack infrastructure using Docker and docker-compose.
 
 ---
 
