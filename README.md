@@ -42,17 +42,20 @@ Why hire a former pianist for low-level software engineering?
 
 ---
 
-## 🏛️ 42 School Core Curriculum (Selected Projects)
+## 🏛️ 42 School Core Curriculum
+*Selected projects from the 42 syllabus, all validated with the maximum possible score, demonstrating low-level mastery and robust architecture.*
 
-### ⚙️ Systems, Concurrency & Infrastructure
-- **[Inception](https://github.com/sys-harmony/42_inception) (Score: 125/100):** Built a complete, secure LEMP stack infrastructure from scratch using Docker. Handled reverse proxying, TLS/SSL, and automated system lifecycles. *(SRE Focus)*
-- **[Philosophers](https://github.com/sys-harmony/42_philosophers) (Score: 125/100):** Solved the dining philosophers problem using POSIX threads, forks, and mutexes/semaphores. Strictly optimized to prevent deadlocks and data races. *(Engine Focus)*
-
-### 🌐 Network Architecture
-- **[Webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, poll, CGI execution, socket multiplexing).
+### ⚙️ Systems & Optimization
+- **[Minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
+- **[Philosophers](https://github.com/sys-harmony/42_philosophers):** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
 
 ### 🎮 Graphics & Math
-- **[Cub3D](https://github.com/Blaeste/42_Cub3D) & [FdF](https://github.com/sys-harmony/42_fdf):** Built 3D raycasting and wireframe engines in C. Handled mathematical optimization, memory mapping, and rendering loops.
+- **[Cub3D](https://github.com/Blaeste/42_Cub3D):** Built a 3D raycasting engine in C (inspired by Wolfenstein 3D). Handled textures, sprite casting, and mathematical optimization.
+- **[FdF](https://github.com/sys-harmony/42_fdf):** A 3D wireframe isometric landscape renderer using custom graphic libraries.
+
+### 🌐 Architecture & Networking
+- **[Webserv](https://github.com/Blaeste/42_Webserv):** Wrote a fully compliant HTTP/1.1 web server in C++98 from scratch (non-blocking I/O, poll, CGI execution).
+- **[Inception](https://github.com/sys-harmony/42_inception):** Built a complete LEMP stack infrastructure using Docker and docker-compose.
 
 ---
 
@@ -62,7 +65,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship** as an **SRE, Distributed Systems Engineer, Network Programmer, or Engine Programmer**.
+- Looking for a **6-month internship** as an **Site Reliability Engineer, Distributed Systems Engineer, Network, Engine or Anti-Cheat/Security Programmer**.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
