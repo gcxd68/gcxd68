@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Grégory (gcxd68)
+# 👋 Hi, I'm Grégory !
 
 **Former Music Teacher & Pianist 🎹 ➔ Low-Level & C++ Software Engineer 💻**
 
