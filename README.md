@@ -34,7 +34,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## 🚀 Personal Engineering & Tools
-*Initiatives and custom projects built outside the standard curriculum.*
+*Initiatives and custom projects built outside the 42 curriculum.*
 
 - 🐍 **[minisnake](https://github.com/sys-harmony/minisnake):** Engineered a networked terminal-based Snake game. Built the core game loop and system events in pure C, communicating via sockets with a custom concurrent backend server written in Go.
 - 🧚 **[libft-fairy](https://github.com/sys-harmony/libft-fairy):** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
