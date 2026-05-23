@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Grégory !
 
-**Low-Level, Network & Systems Engineer 💻 | C, C++, Go**
+**Low-Level & Systems Engineer 💻 | C, C++, Go**
 
 🎓 **Student at 42 Mulhouse** | 📍 Based in Colmar, France (Mobile & Remote-ready)
 
@@ -12,31 +12,31 @@ I am passionate about the **"engine room"**: memory management, real-time concur
 
 ## 🎼 The "Musician" Edge in Tech
 Why hire a former pianist for low-level software engineering?
-- **Extreme Rigor (Anti-Cheat & SRE):** In classical music, a wrong note is fatal. In C/C++, a memory leak or an unsecured socket is the same. I am obsessed with clean, optimized, and deterministic code.
+- **Extreme Rigor (Anti-Cheat & Systems):** In classical music, a wrong note is fatal. In C/C++, a memory leak or an unsecured socket is the same. I am obsessed with clean, optimized, and deterministic code.
 - **Systemic Thinking (Concurrency):** Understanding a symphony score is essentially parsing a massive, multithreaded architecture. Managing Goroutines or POSIX threads requires the exact same synchronization.
 - **Resilience:** I know how to practice a single measure (or debug a single core dump) for hours until the execution is flawless.
 
 ---
 
 ## 🎯 Target Roles & Core Interests
-- **Site Reliability Engineering (SRE) & Cloud Infrastructure**
-- **Distributed Systems Engineering**
-- **Game Engine & Multiplayer Network Programming**
-- **Security & Anti-Cheat Engineering**
+- **Backend Systems Engineering:** High-performance servers, low-level C/C++, Go
+- **Game Network & Multiplayer Backend:** Authoritative servers, anti-cheat, real-time systems
+- **Security Engineering:** Network security, behavioral detection
+- 🌱 *Long-term direction & Active Learning:* **Distributed Systems Engineering & SRE**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** C, C++98, Go
+- **Languages:** C (Proficient), C++98 (Proficient), Go (Intermediate — server-side concurrency, currently deepening)
 - **Network & Systems:** Linux (Ubuntu/Debian), POSIX Threads, BSD Sockets (TCP/UDP), IPC, Multi-threaded Architectures
-- **Infrastructure & SRE:** Docker, Docker-compose, Nginx, HAProxy, System Virtualization
+- **Infrastructure:** Docker, Docker-compose, Nginx, HAProxy, System Virtualization
 
 ---
 
 ## 🚀 Personal Engineering & Tools
 *Initiatives and custom projects built outside the 42 curriculum.*
 
-- 🐍 **[minisnake](https://github.com/sys-harmony/minisnake):** Engineered a networked terminal-based Snake game. Built the core game loop and system events in pure C, communicating via sockets with a custom concurrent backend server written in Go.
+- 🐍 **[minisnake](https://github.com/sys-harmony/minisnake):** Engineered a networked terminal-based Snake game. Built the core client loop in pure C, communicating via TCP sockets with a custom Go backend. Implemented server-side concurrency using **goroutines** for active session management, rate limiting, and state synchronization.
 - 🧚 **[libft-fairy](https://github.com/sys-harmony/libft-fairy):** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
 
 ---
@@ -64,7 +64,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship** as an **Site Reliability Engineer, Distributed Systems Engineer, Network, Engine or Anti-Cheat/Security Programmer**.
+- Looking for a **6-month internship** as a **Backend Systems Engineer, Game Network Programmer, or Low-Level/Security Software Engineer** — C/C++, Go.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
