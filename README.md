@@ -10,19 +10,19 @@ I am passionate about the **"engine room"**: memory management, real-time concur
 
 ---
 
-## 🎯 Target Roles & Core Interests
-- **Site Reliability Engineering (SRE) & Cloud Infrastructure**
-- **Distributed Systems Engineering**
-- **Game Engine & Multiplayer Network Programming**
-- **Security & Anti-Cheat Engineering**
-
----
-
 ## 🎼 The "Musician" Edge in Tech
 Why hire a former pianist for low-level software engineering?
 - **Extreme Rigor (Anti-Cheat & SRE):** In classical music, a wrong note is fatal. In C/C++, a memory leak or an unsecured socket is the same. I am obsessed with clean, optimized, and deterministic code.
 - **Systemic Thinking (Concurrency):** Understanding a symphony score is essentially parsing a massive, multithreaded architecture. Managing Goroutines or POSIX threads requires the exact same synchronization.
 - **Resilience:** I know how to practice a single measure (or debug a single core dump) for hours until the execution is flawless.
+
+---
+
+## 🎯 Target Roles & Core Interests
+- **Site Reliability Engineering (SRE) & Cloud Infrastructure**
+- **Distributed Systems Engineering**
+- **Game Engine & Multiplayer Network Programming**
+- **Security & Anti-Cheat Engineering**
 
 ---
 
