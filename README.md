@@ -3,6 +3,8 @@
 **Low-Level & Systems Engineer 💻 | C, C++, Go**
 
 🎓 **Student at 42 Mulhouse** | 📍 Based in Colmar, France (Mobile & Remote-ready)
+🚀 **Open to Internship or Alternance (Apprenticeship) — Starting Fall 2026**
+
 
 I spent 25 years teaching piano and music theory, deciphering classical harmony, and translating artistic intent into structured logic. Today, I apply that same rigorous, structural mindset to systems engineering. I don't just write code; I orchestrate systems. 
 
@@ -64,7 +66,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship** as a **Backend Systems Engineer, Game Network Programmer, or Low-Level/Security Software Engineer** — C/C++, Go.
+- Looking for a **6-month internship or an Alternance (Work-study program)** as a **Backend Systems Engineer, Game Backend/Network Programmer, or Low-Level/Security Software Engineer** — C/C++, Go.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
