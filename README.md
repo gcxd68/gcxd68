@@ -48,7 +48,7 @@ Why hire a former pianist for low-level software engineering?
 *Selected projects from the 42 syllabus, all validated with the maximum possible score, demonstrating low-level mastery and robust architecture.*
 
 ### ⚙️ Systems & Optimization
-- **[Philosophers](https://github.com/sys-harmony/42_philosophers):** Solved the classic dining philosophers problem using POSIX threads and mutexes, optimizing for data races and CPU usage.
+- **[Philosophers](https://github.com/sys-harmony/42_philosophers):** Solved the classic dining philosophers problem using threads and mutexes,as well as processes and semaphores, optimizing for data races and CPU usage.
 - **[Minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
 
 ### 🎮 Graphics & Math
