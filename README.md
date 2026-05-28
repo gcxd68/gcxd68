@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Grégory !
 
-**Low-Level & Systems Engineer 💻 | C, C++, Go**
+**Low-Level & Systems Engineer 💻 | C (Fluent), C++98 (Proficient), Go (Learning)**
 
 🎓 **Student at 42 Mulhouse** | 📍 Based in Colmar, France (Mobile & Remote-ready)
 
@@ -22,24 +22,24 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## 🎯 Target Roles & Core Interests
-- **Backend Systems Engineering:** High-performance servers, low-level C/C++, Go
+- **Backend Systems Engineering:** High-performance servers, low-level C/C++
 - **Game Network & Multiplayer Backend:** Authoritative servers, anti-cheat, real-time systems
 - **Security Engineering:** Network security, behavioral detection
-- 🌱 *Long-term direction & Active Learning:* **Distributed Systems Engineering & SRE**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** C (Proficient), C++98 (Proficient), Go (Intermediate — server-side concurrency, currently deepening)
+- **Languages:** C (Fluent), C++98 (Proficient), Go (Learning)
 - **Network & Systems:** Linux (Ubuntu/Debian), POSIX Threads, BSD Sockets (TCP/UDP), IPC, Multi-threaded Architectures
 - **Infrastructure:** Docker, Docker-compose, Nginx, HAProxy, System Virtualization
+- **Active exploration:** Low-level languages with explicit memory control and no runtime — currently reading into Zig and Rust
 
 ---
 
 ## 🚀 Personal Engineering & Tools
 *Initiatives and custom projects built outside the 42 curriculum.*
 
-- 🐍 **[minisnake](https://github.com/sys-harmony/minisnake):** Engineered a networked terminal-based Snake game. Built the core client loop in pure C, communicating via TCP sockets with a custom Go backend. Implemented server-side concurrency using **goroutines** for active session management, rate limiting, and state synchronization.
+- 🐍 **[minisnake](https://github.com/sys-harmony/minisnake):** Engineered a networked terminal-based Snake game. Built the core client loop in pure C, communicating via HTTP over TCP sockets with a custom Go backend (AI-assisted, fully understood and maintained). The server implements per-session **goroutine** concurrency, rate limiting, and authoritative state synchronization.
 - 🧚 **[libft-fairy](https://github.com/sys-harmony/libft-fairy):** Developed a custom unit testing and memory leak detection framework in C and Shell to rigorously test the 42 `libft` library. Built to ensure absolute memory safety and functionality for both mandatory and bonus requirements.
 
 ---
@@ -67,7 +67,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship or an Alternance (Work-study program)** as a **Backend Systems Engineer, Game Network/Multiplayer Programmer, or Low-Level/Security Software Engineer** — C/C++, Go.
+- Looking for a **6-month internship or an Alternance (Work-study program)** as a **Backend Systems Engineer, Game Network/Multiplayer Programmer or Low-Level/Security Software Engineer** — C/C++, and whatever the stack requires.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
